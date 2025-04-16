@@ -1,0 +1,10 @@
+/home/zadmin/Desktop/ShareIdeaV3/UserProfileService/src/main/java/com/shareideas/user/UserProfileServiceApplication.java
+/home/zadmin/Desktop/ShareIdeaV3/UserProfileService/src/main/java/com/shareideas/user/config/RestTemplateConfig.java
+/home/zadmin/Desktop/ShareIdeaV3/UserProfileService/src/main/java/com/shareideas/user/controller/UserProfileController.java
+/home/zadmin/Desktop/ShareIdeaV3/UserProfileService/src/main/java/com/shareideas/user/model/ChangePasswordDTO.java
+/home/zadmin/Desktop/ShareIdeaV3/UserProfileService/src/main/java/com/shareideas/user/model/Credentials.java
+/home/zadmin/Desktop/ShareIdeaV3/UserProfileService/src/main/java/com/shareideas/user/model/UserProfile.java
+/home/zadmin/Desktop/ShareIdeaV3/UserProfileService/src/main/java/com/shareideas/user/model/UserProfileDTO.java
+/home/zadmin/Desktop/ShareIdeaV3/UserProfileService/src/main/java/com/shareideas/user/repository/UserProfileRepository.java
+/home/zadmin/Desktop/ShareIdeaV3/UserProfileService/src/main/java/com/shareideas/user/service/UserProfileService.java
+/home/zadmin/Desktop/ShareIdeaV3/UserProfileService/src/main/java/com/shareideas/user/service/UserProfileServiceImpl.java
